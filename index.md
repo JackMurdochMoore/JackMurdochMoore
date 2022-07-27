@@ -1,4 +1,4 @@
-![Jack Murdoch Moore](/assets/images/jack-2021-12-02.jpg){: width="250" }
+<img src="/assets/images/jack-2021-12-02.jpg" alt="Jack Murdoch Moore" width="200"/>
 
 ## Welcome to GitHub Pages
 
