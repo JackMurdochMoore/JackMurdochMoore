@@ -1,10 +1,15 @@
 <div style="text-align: center"><img src="jack-2021-12-02.jpg" alt="Jack Murdoch Moore" width="200" /></div>
 
 School of Physics Science and Engineering
+
 Tongji University
+
 67 Chifeng Road, Yangpu
+
 Shanghai, China
+
 **Email:** jackmoore AT tongji DOT edu DOT cn
+
 **Tel:**  +86 (021) 65983380
 
 ## Biography
