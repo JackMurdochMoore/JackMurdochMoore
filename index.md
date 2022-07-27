@@ -34,3 +34,6 @@ I am interested in complex systems, network science, nonlinear time series analy
 1. J. M. Moore\* and M. Small, “Estimating dynamical dimensions from noisy observations,” _Information Sciences_, vol. 462, p. 55, 2018.
 1. J. Moore\*, A. Karrech, M. Small, E. Veveakis, and K. Regenauer-Lieb, “Dissipative propagation of pressure waves along the slip-lines of yielding material,” _International Journal of Engineering Science_, vol. 107, p. 149, 2016.
 1. J. M. Moore\*, A. Karrech, and M. Small, “Improvements to local projective noise reduction through higher order and multiscale refinements,” _Chaos: An Interdisciplinary Journal of Nonlinear Science_, vol. 25, no. 6, p. 063114, 2015.
+
+## Projects
+1. J. M. Moore (principal investigator), “Causal network inference for realistically nonlinear and non-separable complex systems,” _National Natural Science Fund of China_, Research Fund for International Young Scientists, Grant no. 12150410309, 2022.
