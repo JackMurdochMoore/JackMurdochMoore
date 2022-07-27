@@ -13,7 +13,7 @@ Shanghai, China
 ## Biography
 Since 2019, I have been a postdoctoral researcher in the research team of Prof. Gang Yan at the School of Physics Science and Engineering, Tongji University, Shanghai, China. I received my B.Sc. and Ph.D. degree at the University of Western Australia in 2013 and 2018 respectively. I was born in Rockingham, Western Australia, a city whose neighbouring islands host both penguins and sea lions.
 
-Among other things, I am interested in complex systems, network science, nonlinear time series analysis, and Chinese culture. My Chinese name is 墨龙明, and I go by Jack or 小明 (Xiǎomíng).
+Among other things, I am interested in complex systems, network science, nonlinear time series analysis, and Chinese culture. My Chinese name is 墨龙明 (Mò Lóngmíng), and I am usually called Jack or 小明 (Xiǎomíng).
 
 ## Publications
 
