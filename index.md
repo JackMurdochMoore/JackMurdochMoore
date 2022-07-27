@@ -1,3 +1,5 @@
+![Jack Murdoch Moore](/docs/assets/jack-2021-12-02.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JackMurdochMoore/JackMurdochMoore/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
