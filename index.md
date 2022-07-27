@@ -1,4 +1,4 @@
-![Jack Murdoch Moore](/assets/images/jack-2021-12-02.jpg)
+![Jack Murdoch Moore](/assets/images/jack-2021-12-02.jpg){: width="250" }
 
 ## Welcome to GitHub Pages
 
