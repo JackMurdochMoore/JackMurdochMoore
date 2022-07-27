@@ -17,6 +17,8 @@ I am interested in complex systems, network science, nonlinear time series analy
 
 ## Publications
 
+[Google Scholar profile](https://scholar.google.com/citations?user=AFDBPpYAAAAJ&hl=en&oi=ao)
+
 1. J. M. Moore, G. Yan\*, and E. G. Altmann, “Nonparametric power-law surrogates,” _Physical Review X_, vol. 12, p. 021056, 2022.
 1. H. Wang, J. M. Moore\*, M. Small, J. Wang, H. Yang, and C. Gu, “Epidemic dynamics on higher-dimensional small world networks,” _Applied Mathematics and Computation_, vol. 421, p. 126911, 2022.
 1. H. Wang, Z. Du\*, J. M. Moore\*, H. Yang, and C. Gu, “Causal networks reveal the response of Chinese stocks to modern crises,” _Information Sciences_ (Accepted subject to minor revisions).
