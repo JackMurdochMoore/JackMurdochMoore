@@ -1,16 +1,11 @@
 <div style="text-align: center"><img src="jack-2021-12-02.jpg" alt="Jack Murdoch Moore" width="200" /></div>
 
-School of Physics Science and Engineering
-
-Tongji University
-
-67 Chifeng Road, Yangpu
-
-Shanghai, China
-
-**Email:** jackmoore AT tongji DOT edu DOT cn
-
-**Tel:**  +86 (021) 65983380
+School of Physics Science and Engineering  
+Tongji University  
+67 Chifeng Road, Yangpu  
+Shanghai, China  
+**Email:** jackmoore AT tongji DOT edu DOT cn  
+**Tel:**  +86 (021) 65983380  
 
 ## Biography
 Since 2019, I have been a postdoctoral researcher in the research team of Prof. Gang Yan at the School of Physics Science and Engineering, Tongji University, Shanghai, China. I received my B.Sc. and Ph.D. degree at the University of Western Australia in 2013 and 2018 respectively. I was born in Rockingham, Western Australia, a city whose coastal waters host both penguins and sea lions.
