@@ -1,4 +1,4 @@
-<div style="text-align: center"><img src="/assets/images/jack-2021-12-02.jpg" alt="Jack Murdoch Moore" width="200"/></div>
+<div style="text-align: center"><img src="/assets/images/jack-2021-12-02.jpg" alt="Jack Murdoch Moore" width="200" /></div>
 
 ## Welcome to GitHub Pages
 
