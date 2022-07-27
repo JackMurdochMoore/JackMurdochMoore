@@ -1,4 +1,4 @@
-![Jack Murdoch Moore](/docs/assets/jack-2021-12-02.jpg)
+![Jack Murdoch Moore](/assets/jack-2021-12-02.jpg)
 
 ## Welcome to GitHub Pages
 
