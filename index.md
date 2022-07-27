@@ -17,9 +17,9 @@ Among other things, I am interested in complex systems, network science, nonline
 
 ## Publications
 
-1. J. M. Moore, G. Yan&ast, and E. G. Altmann, “Nonparametric power-law surrogates,” *Physical Review X*, vol. 12, p. 021056, 2022.
-1. H. Wang, J. M. Moore&ast, M. Small, J. Wang, H. Yang, and C. Gu, “Epidemic dynamics on higher-dimensional small world networks,” *Applied Mathematics and Computation*, vol. 421, p. 126911, 2022.
-1. H. Wang, Z. Du&ast, J. M. Moore&ast, H. Yang, and C. Gu, “Causal networks reveal the response of Chinese stocks to modern crises,” *Information Sciences* (Accepted subject to minor revisions).
+1. J. M. Moore, G. Yan*, and E. G. Altmann, “Nonparametric power-law surrogates,” _Physical Review X_, vol. 12, p. 021056, 2022.
+1. H. Wang, J. M. Moore*, M. Small, J. Wang, H. Yang, and C. Gu, “Epidemic dynamics on higher-dimensional small world networks,” *Applied Mathematics and Computation*, vol. 421, p. 126911, 2022.
+1. H. Wang, Z. Du*, J. M. Moore*, H. Yang, and C. Gu, “Causal networks reveal the response of Chinese stocks to modern crises,” *Information Sciences* (Accepted subject to minor revisions).
 1. L. Cui, J. M. Moore\*, “Causal network reconstruction from nonlinear time series: A comparative study,” *International Journal of Modern Physics C*, vol. 32, no. 4, p. 1, 2021.
 1. J. M. Moore\*, M. Small, and G. Yan, “Inclusivity enhances robustness and efficiency of social networks,” *Physica A: Statistical Mechanics and its Applications*, vol. 563, p. 125490, 2021.
 1. H. Wang, J. M. Moore, J. Wang\*, and M. Small, “The distinct roles of initial transmission and retransmission in the persistence of knowledge in complex networks,” *Applied Mathematics and Computation*, vol. 392, p. 125730, 2021.
