@@ -19,6 +19,8 @@ I am interested in statistical physics, complex systems, network science, nonlin
 
 [Google Scholar profile](https://scholar.google.com/citations?user=AFDBPpYAAAAJ&hl=en&oi=ao)
 
+1. J. M. Moore, H. Wang, M. Small, G. Yan\*, H. Yang, and C. Gu, "Correlation dimension in empirical networks," _Physical Review E_, vol. 107, no. 3, p. 034310, 2023.
+1. P. Wang, C. Gu, H. Yang\*, H. Wang, and J. M. Moore, "Characterizing systems by multi-scale structural complexity," _Physica A: Statistical Mechanics and its Applications_, vol. 609, p. 128358, 2023.
 1. J. M. Moore, G. Yan\*, and E. G. Altmann, “Nonparametric power-law surrogates,” _Physical Review X_, vol. 12, p. 021056, 2022.
 1. H. Wang, J. M. Moore\*, M. Small, J. Wang, H. Yang, and C. Gu, “Epidemic dynamics on higher-dimensional small world networks,” _Applied Mathematics and Computation_, vol. 421, p. 126911, 2022.
 1. H. Wang, Z. Du\*, J. M. Moore\*, H. Yang, and C. Gu, “Causal networks reveal the response of Chinese stocks to modern crises,” _Information Sciences_, vol. 609, p. 1670, 2022.
