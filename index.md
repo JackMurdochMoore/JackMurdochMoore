@@ -20,7 +20,7 @@ I am interested in statistical physics, complex systems, network science, nonlin
 [Google Scholar profile](https://scholar.google.com/citations?user=AFDBPpYAAAAJ&hl=en&oi=ao)
 
 1. J. M. Moore, M. Small, G. Yan, H. Yang, C. Gu, H. Wang, “Network spreading from network dimension,” _Physical Review Letters_, vol. 132, p. 237401, 2024.
-1. X. Ru, X.-Y. Zhang, Z. Liu, J. M. Moore\*, G. Yan\*, “Attentive Transfer Entropy to Exploit Transient Emergence of Coupling Effect,” Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+1. X. Ru, X.-Y. Zhang, Z. Liu, J. M. Moore\*, G. Yan\*, “Attentive Transfer Entropy to Exploit Transient Emergence of Coupling Effect,” in _Advances in Neural Information Processing Systems_, (Curran Associates, Inc., New Orleans), p. 171, 2023.
 2. X. Ru, J. M. Moore, X.-Y. Zhang, Y. Zeng, and G. Yan, “Inferring patient zero on temporal networks via graph neural networks,” in _Proceedings of the AAAI Conference on Artificial Intelligence, New Orleans_ (AAAI Press, Washington, DC), p. 9632, 2023.
 1. J. M. Moore, X. Zhang, G. Yan\*, J. M. Moore\*, “Foresight and relaxation enable efficient control of nonlinear complex systems,” _Physical Review Research_, vol. 5, no. 3, p. 033138, 2023.
 1. J. M. Moore, H. Wang, M. Small, G. Yan\*, H. Yang, and C. Gu, “Correlation dimension in empirical networks,” _Physical Review E_, vol. 107, no. 3, p. 034310, 2023.
